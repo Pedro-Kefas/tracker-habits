@@ -1,4 +1,4 @@
-<h1 align="center"> Calculadora JavaScript "Shadow o Ouriço" - Pedro Kefas </h1>
+<h1 align="center"> Tracker Habits (Visual) - Pedro Kefas </h1>
 
 <p align="center">
 Meu social links:. <br/>

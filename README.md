@@ -18,7 +18,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto visual feito com minhas próprias linhas de código de HTML5 e CSS3.
 
 Responsivo para mobile: Não
-Imagem de Background pegada do Pinterest.
 
 - [Acesse o meu server de Discord](https://discord.gg/Uk8Qgtwgqs)
 
